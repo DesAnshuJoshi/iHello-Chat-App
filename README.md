@@ -27,17 +27,18 @@ iHello is developed using the following technologies:
 
 To run iHello locally, follow these steps:
 
-    1. Clone the repository:
+1. Clone the repository:
     
     ```
     git clone https://github.com/DesAnshuJoshi/iHello-Chat-App.git
     ```
 
-    2. Create a MySQL database and import the iHello.sql file in the database folder.
+2. Create a MySQL database and import the iHello.sql file in the database folder.
 
-    3. Configure the database connection in the config.php file.
+3. Configure the database connection in the config.php file.
 
-    4. Upload the files to your web server.
+4. Upload the files to your web server.
+
 ## Deployment
 
 iHello is deployed to the 000webhost server. To access the application, [Visit here](https://ihellochat.000webhostapp.com/)
